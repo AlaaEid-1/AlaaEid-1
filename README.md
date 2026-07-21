@@ -36,30 +36,6 @@ MVC • OOP • Clean Architecture • Eloquent ORM • Authentication • Autho
 AI Integration • LLM APIs • AI Content Generation
 
 ---
-
-## 🚀 Featured Projects
-
-### 🤖 AI Blogging Platform
-AI-powered blogging system with content generation, user interactions, bookmarks, follow system, notifications, and dashboard management.
-
-**Laravel • MySQL • AI APIs • Tailwind CSS**
-
----
-
-### 📋 Agile Project Management System
-Task and sprint management platform inspired by Agile workflows.
-
-**Laravel • MySQL • Blade • Tailwind CSS**
-
----
-
-### 🚗 Car Showroom Management System
-Business management system with roles, permissions, dealer workflows, and notifications.
-
-**Laravel • MySQL • Policies**
-
----
-
 <div align="center">
 
 ⭐ Building software. Exploring AI.
